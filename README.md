@@ -6,10 +6,12 @@ events-list
 1. Create a virtual environment. Get beer (and optionnaly glass) while it's being created.
    ```bash
    $ mkvirtualenv events-list
+
    ```
 2. Install required packages. Open beer while being installed.
    ```bash
    $ pip install -r requirements.txt
+   
    ```
 3. Create database. Pour beer into glass (optionnal).
    ```bash
@@ -45,4 +47,5 @@ events-list
 3. Start server. Enjoy beer!
    ```bash
    $ ./manage.py runserver
+
    ```
